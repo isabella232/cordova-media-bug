@@ -1,0 +1,1 @@
+# cordova-media-bug
